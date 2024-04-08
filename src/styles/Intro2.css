@@ -1,0 +1,43 @@
+.second-section{
+    font-size: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+.second-section h2{
+    font-size: 3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    justify-content: space-around;
+    display:flex;
+    gap: 20px;
+    
+}
+.second-section .container .card{
+    width: 150px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.second-section .container .card .box {
+    border: 3px solid blue;
+    min-width: 200px;
+    min-height: 250px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    
+}
+
+.second-section .container .card p{
+    
+    text-align: center;
+    font-size: 1rem;
+    padding-left:50px ;
+    
+
+    
+    
+}
+

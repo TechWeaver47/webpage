@@ -1,0 +1,50 @@
+.forth-section {
+    padding: 5%;
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+}
+
+.forth-section .box-blue{
+    background-color: #3882F6;
+    align-items: center;
+    justify-content: space-evenly;
+    min-width: 800px;
+    min-height: 100px;
+    width: fit-content;
+    border-radius: 15px;
+    
+   
+    
+}
+
+.forth-section  .container-sec{
+    position: relative;
+    margin: 40px;
+    
+}
+.forth-section .box-blue .container-sec button{
+    position: absolute;
+    right: 0;
+    background-color: #3882F6;
+    color: wheat;
+    border: 1px solid white;
+    font-size: x-large;
+    border-radius: 15px;
+    padding: 12px 28px;
+    bottom: 0;
+    cursor: pointer;
+
+}
+
+
+
+
+.container-sec h1{
+    align-self: flex-start;
+    margin-left: 100px;
+}
+

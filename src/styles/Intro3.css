@@ -1,0 +1,19 @@
+.third-section{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 0px;
+
+}
+.third-section q {
+    max-width: 900px;
+    font-size: 36px;
+    font-style: italic;
+    font-family: light;
+    color: #1F2937;
+}
+.third-section .container p {
+    padding-top:160px ;
+}
